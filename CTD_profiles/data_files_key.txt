@@ -1,0 +1,7 @@
+File key:
+
+cal_vert_data_stations.csv has one identifier for each station
+
+cal_vert_data_combined.csv has all data for all calanus species and stages (lists of depths for each sampling station and event are repeated for each species and stage combination)
+
+cal_vert_data_alldepths.csv is the data for only Calanus finmarchicus C5 - a condensed version of the prior data sheet that has a single list of depths for each sampling station and event
